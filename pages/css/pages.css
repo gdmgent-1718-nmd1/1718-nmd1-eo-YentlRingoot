@@ -16,3 +16,11 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+.ondertitelintro{
+    font-weight: 200;
+}
+
+.tekstintro{
+    font-weight: 100;
+}
