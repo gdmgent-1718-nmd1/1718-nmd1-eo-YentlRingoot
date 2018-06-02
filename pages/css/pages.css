@@ -24,3 +24,80 @@ img {
 .tekstintro{
     font-weight: 100;
 }
+
+.voorbeeldcalifornia{
+    font-family: California;
+    font-size: 100px;
+}
+
+.voorbeeldcalifornia2{
+    font-family: California;
+    font-size: 100px;
+    color: #05bca3;
+    margin-left: 250px;
+    margin-top: -120px;
+}
+
+.voorbeeldcalifornia3{
+    font-family: California;
+    font-size: 65px;
+}
+
+.voorbeeldcalifornia4{
+    font-family: California;
+    font-size: 65px;
+    color: #05bca3;
+    margin-left: 180px;
+    margin-top: -85px;
+}
+
+.voorbeeldtekst{
+    font-family: Roboto;
+    font-size: 14px;
+    width: 600px;
+}
+
+#colorOne{
+    background-color: #0c1e38;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#colorTwo{
+    background-color: #05bca3;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#colorThree{
+    background-color: #d56b53;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#colorFour{
+    background-color: #ffa88c;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#colorFive{
+    background-color: #3e5470;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
